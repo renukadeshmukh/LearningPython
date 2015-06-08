@@ -11,3 +11,6 @@ c = int(b)
 print type(c)
 d = float(b)
 print type(d)
+
+fl = int(98.6)
+print fl
