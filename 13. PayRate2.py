@@ -16,3 +16,5 @@ if diff <= 0 :
 	print h * r
 else :
 	print (40 * r) + (1.5 * diff * r)
+	
+	
